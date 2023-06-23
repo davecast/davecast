@@ -6,4 +6,4 @@ I'm a **Front-end Developer and Graphic Designer**, passionate by the frontend a
 
 ## Get in touch around the web 🌍
 - Sharing tips, code and more for [Instagram](https://instagram.com/davecast) 📸
-- And my [Personal Site](https://davecastworks.com/) 🌍
+
